@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int n1,n2; //variáveis globais pode ser acessadas de qlq lugar
+int n1,n2; //variï¿½veis globais pode ser acessadas de qlq lugar
 
 int main(){
 	
 	
 	// oeradores matematicos = - / * %(resto)
-	int n3,n4; //variáves locais
+	int n3,n4; //variï¿½ves locais
 	int res1,res2;
 	
 	n1=11;
@@ -23,4 +23,5 @@ int main(){
 	
 	
 	return 0;
+	
 }
